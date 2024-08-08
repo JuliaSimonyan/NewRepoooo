@@ -1,0 +1,8 @@
+@media only screen and(max-width:800px){
+   #gallery {
+    margin-top: -203px !important ;
+   }
+   .art-piece {
+    margin-left: 66px !important;
+   }
+}
